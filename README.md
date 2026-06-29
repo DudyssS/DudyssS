@@ -22,6 +22,13 @@ Iniciando minha jornada na área de tecnologia, aprendendo os fundamentos de pro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudyssS&layout=compact&theme=outrun" height="170"/>
 </p>
 
+--- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DudyssS/DudyssS/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DudyssS/DudyssS/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/DudyssS/DudyssS/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 <div align="left">
 
