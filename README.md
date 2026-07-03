@@ -17,9 +17,9 @@ Iniciando minha jornada na área de tecnologia, aprendendo os fundamentos de pro
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DudyssS&show_icons=true&theme=outrun" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=DudyssS&show_icons=true&theme=outrun" height="170"/>
   </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudyssS&layout=compact&theme=outrun" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DudyssS&layout=compact&theme=outrun" height="170"/>
 </p>
 
 --- 
