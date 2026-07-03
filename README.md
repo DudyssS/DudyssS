@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## Sobre mim
+# $${\color{pink}SOBRE \space MIM}$$
 
 Iniciando minha jornada na área de tecnologia, aprendendo os fundamentos de programação e construindo meus primeiros projetos.
 
